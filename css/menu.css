@@ -1,0 +1,9 @@
+.menu{
+    background-color: #363636;
+    overflow: hidden;
+    padding: 8px;
+}
+.menu a{
+    color: aliceblue;
+    padding: 10px 5px;
+}
