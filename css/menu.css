@@ -1,9 +1,14 @@
 .menu{
     background-color: #363636;
-    overflow: hidden;
     padding: 8px;
 }
 .menu a{
-    color: aliceblue;
+    display: inline-flexbox;
+    position: relative;
+    color: white;
     padding: 10px 5px;
+    text-decoration-line: none;
+}
+.h2{
+    
 }
