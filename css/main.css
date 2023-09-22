@@ -1,15 +1,5 @@
-.box{
-    color: #020202;
-    background-color: #8e8e92;
-    border: 1px solid rgba(0, 0, 0, 0) ;
-    margin-right: 75%;
-    height: 250px;
-    width: 250px;
-    box-shadow: 10px 15px 20px rgb(87, 85, 85);
-    margin-left: 30px;
-    margin-top: 30px;
-    padding-top: 10px;
-    text-align: center;
-    border-radius: 10px;
-    display: flex;
+.main_box{
+    display: block;
+    
+    
 }

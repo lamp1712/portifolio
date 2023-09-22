@@ -9,6 +9,27 @@
     padding: 10px 5px;
     text-decoration-line: none;
 }
-.h2{
-    
+.picture{
+    width: 100px;
+    padding: 10px;
+    text-align: center;
+}
+.tecs{
+    padding: 20px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+.boxes{
+    height: 250px;
+    width: 357px;
+    display: flexbox;
+    float:left;
+    box-shadow: 10px 15px 20px rgb(87, 85, 85);
+    border-radius: 10px;
+    background-color: #8e8e92;
+    border: none;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-top: 10px;
+    text-align: center;
 }
