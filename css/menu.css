@@ -15,13 +15,12 @@
     text-align: center;
 }
 .tecs{
-    padding: 20px;
-    font-size: 30px;
+    font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
 }
 .boxes{
-    height: 250px;
-    width: 357px;
+    height: 150px;
+    width: 245px;
     display: flexbox;
     float:left;
     box-shadow: 10px 15px 20px rgb(87, 85, 85);

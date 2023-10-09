@@ -1,5 +1,21 @@
 .main_box{
-    display: block;
-    
-    
+    display: flexbox;
+    background-color: #8e8e92;
+    width: 97%;
+    height: 800px;
+    margin-top: 195px;
+    box-shadow: 10px 15px 20px rgb(87, 85, 85);
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;   
+}
+.titulos{
+    font-size: 36px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 20px;
+
+}
+.perfil{
+    width: 300px;
 }
