@@ -20,7 +20,7 @@
 }
 .boxes{
     height: 150px;
-    width: 245px;
+    width: 310px;
     display: flexbox;
     float:left;
     box-shadow: 10px 15px 20px rgb(87, 85, 85);

@@ -2,7 +2,7 @@
     display: flexbox;
     background-color: #8e8e92;
     width: 97%;
-    height: 800px;
+    height: 100%;
     margin-top: 195px;
     box-shadow: 10px 15px 20px rgb(87, 85, 85);
     margin-left: 20px;
@@ -11,11 +11,37 @@
 }
 .titulos{
     font-size: 36px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Times New Roman', Times, serif;
     text-align: center;
-    padding: 20px;
+    margin-top: 35px;
+    padding: 30px;
 
 }
-.perfil{
+.perfil_2{
     width: 300px;
+    display: flexbox;
+    margin-left: 80px;
+    margin-top: 10px;
+    padding: 25px;
+}
+.sobre{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10px;
+    margin-right: 180px;
+    width: 500px;
+    float: right; 
+}
+.projetos{
+    width: 100%;
+    height: 300px;
+}
+.left_list{
+    display: flexbox;
+    float: left;
+    width: 700px;
+}
+.right_list{
+    display: flexbox;
+    float: right;
+    width: 700px;
 }
