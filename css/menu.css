@@ -19,16 +19,16 @@
     font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
 }
 .boxes{
-    height: 150px;
-    width: 310px;
+    height: 10%px;
+    width: 18.8%;
     display: flexbox;
     float:left;
     box-shadow: 10px 15px 20px rgb(87, 85, 85);
     border-radius: 10px;
     background-color: #8e8e92;
     border: none;
-    margin-top: 20px;
-    margin-left: 20px;
-    padding-top: 10px;
+    margin-top: 1%;
+    margin-left: 1%;
+    padding: 10px;
     text-align: center;
 }

@@ -1,12 +1,11 @@
 .main_box{
     display: flexbox;
     background-color: #8e8e92;
-    width: 97%;
+    width: 98%;
     height: 1500px;
     margin-top: 195px;
     box-shadow: 10px 15px 20px rgb(87, 85, 85);
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 1%;
     border-radius: 10px;   
 }
 .titulos{
