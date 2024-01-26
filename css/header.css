@@ -1,5 +1,6 @@
 *{
-    box-sizing: border-box;  
+    box-sizing: border-box; 
+    border: none; 
     margin: 0;
   }
   body{
@@ -9,6 +10,8 @@
   .topo{
       margin: 0;
       background-color: #4f4f4f;
+      padding: 2%;
+      
   }
   .titulo{
       text-align: center;
@@ -19,8 +22,9 @@
     float: right;
   }
   .perfil{
-    display: block;
-    text-align: center;
+    display: flexbox;
+    margin-left: 10%;
+    
   }
   
   
