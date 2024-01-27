@@ -2,12 +2,13 @@
     display: flexbox;
     background-color: #8e8e92;
     width: 98%;
-    height: 1500px;
-    margin-top: 9%;
+    height: 100%;
+    margin-top: 1%;
     box-shadow: 10px 15px 20px rgb(87, 85, 85);
     margin-left: 1%;
     border-radius: 10px;   
     padding: 10px;
+    
 }
 .titulos{
     font-size: 36px;
@@ -15,33 +16,39 @@
     text-align: center;
     margin-top: 35px;
     padding: 30px;
-
-}
-.perfil_2{
-    width: 300px;
-    display: flexbox;
-    margin-left: 80px;
-    margin-top: 10px;
-    padding: 25px;
-}
-.sobre{
-    font-family: 'Times New Roman', Times, serif;
-    margin-top: 10px;
-    margin-right: 180px;
-    width: 500px;
-    float: right; 
 }
 .projetos{
     width: 100%;
-    height: 300px;
+    height: 270%;
+    display: grid;
+    place-items: center;
+    border: 2px;
+    
+    
 }
-.left_list{
-    display: flexbox;
-    float: left;
-    width: 700px;
+.project_box{
+    
+    width: 1000px;
+    height: 500px;
+    display: inline-flexbox;
+    padding-top: 2%;
+    padding-left: 1%;
 }
-.right_list{
-    display: flexbox;
-    float: right;
-    width: 700px;
+.box_1,.box_2,.box_3{
+    width: 30%;
+    height: 90%;
+    display: inline-block;
+    padding: 1%;
+    border-radius: 10px;
+    margin-left: 1.8%;
+    box-shadow: 10px 10px 10px;
+    background-color: #9c9ca3;
+    
 }
+.box_1::content{
+    display: grid;
+    place-items: center;
+}
+
+
+
